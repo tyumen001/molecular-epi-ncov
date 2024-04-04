@@ -8,9 +8,9 @@ This repository is used to provide a molecular epidemiology analysis of SARS-CoV
 ## Table of contents
 
 * [Installation](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#installation-%EF%B8%8F)
-* [🕸️Repo contents](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#repo-contents-%EF%B8%8F)
-* [☘️Usage](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#usage-%EF%B8%8F)
-* [⚖️License](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#license-%EF%B8%8F)
+* [Repo contents](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#repo-contents-%EF%B8%8F)
+* [Usage](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#usage-%EF%B8%8F)
+* [License](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#license-%EF%B8%8F)
 * [Issues](https://github.com/tyumen001/molecular-epi-ncov/issues)
 
 ## Installation 🖥️
