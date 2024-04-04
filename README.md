@@ -82,4 +82,4 @@ Run `clade_distribution.ipynb` to obtain `weekly_clade_distribution.csv`, then r
 To get the mutation heatmap of SARS-CoV-2, run mutation_heatmap.ipynb. Ancestral sequences were reconstructed using TreeTime. Taking ba.5.2.48 as an example, run the script `sh ancestral_sequence.sh` to retrieve its ancestral node. The command `treetime ancestral` is computationally intensive and requires a significant amount of memory.
 
 ## License
-This project is covered under **MIT License**
+This project is covered under **MIT License**.
