@@ -7,14 +7,14 @@ This repository is used to provide a molecular epidemiology analysis of SARS-CoV
 
 ## Table of contents
 
-* [Installation](#Installation)
-* [Repo contents](#Repo-contents)
-* [Usage](#Usage)
-* [License](#License)
+* [🖥️Installation](#🖥️Installation)
+* [🕸️Repo contents](#🕸️Repo-contents)
+* [☘️Usage](#☘️Usage)
+* [⚖️License](#⚖️License)
 
-## Installation
+## Installation🖥️
 
-### Hardware requirements🖥️
+### Hardware requirements
 The molecular-epi-ncov package requires a standard server or computer with enough RAM to provide support for operations performed in memory.
 
 ### OS Requirements
@@ -50,7 +50,7 @@ install.packages("reshape2", "ggplot2", "htmlwidgets", "webshot")
 devtools::install_github("hrbrmstr/streamgraph")
 ```
 
-## Repo contents
+## 🕸️Repo contents
 
 * [ancestral_sequence](./ancestral_sequence): Mutation table of ancestral sequences reconstructed by treetime.
 * [clade-distribution](./clade-distribution): `R` package code.
@@ -58,7 +58,7 @@ devtools::install_github("hrbrmstr/streamgraph")
 * [accession_number.txt](./accession_number.txt): Accession numbers of China: Guangdong sequences.
 * [participant_characteristics.png](./participant_characteristics.png): SARS-CoV-2 seroprevalence survey and participant characteristics
 
-## Usage
+## ☘️Usage
 
 ### 1. Obtain SARS-CoV-2 sequences from public databases
 
@@ -86,5 +86,5 @@ Run `clade_distribution.ipynb` to obtain `weekly_clade_distribution.csv`, then r
 
 To get the mutation heatmap of SARS-CoV-2, run mutation_heatmap.ipynb. Ancestral sequences were reconstructed using TreeTime. Taking ba.5.2.48 as an example, run the script `sh ancestral_sequence.sh` to retrieve its ancestral node. The command `treetime ancestral` is computationally intensive and requires a significant amount of memory.
 
-## License⚖️
+## ⚖️License
 This project is covered under **MIT License**.
