@@ -1,7 +1,7 @@
 # Molecular-epi-ncov
 This repository is used to provide a molecular epidemiology analysis of SARS-CoV-2 data from GISAID.
 
-[![license MIT](https://github.com/tyumen001/molecular-epi-ncov/blob/main/LICENSE)]
+[![Author](https://img.shields.io/badge/Author-QiuMing-blue.svg "Author")](https://github.com/tyumen001 "Author")
 
 ## Table of contents
 
