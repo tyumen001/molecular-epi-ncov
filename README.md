@@ -11,7 +11,7 @@ This repository is used to provide a molecular epidemiology analysis of SARS-CoV
 
 ## Installation
 
-### Hardware requirements
+### Hardware requirements🖥️
 The molecular-epi-ncov package requires a standard server or computer with enough RAM to provide support for operations performed in memory.
 
 ### OS Requirements
@@ -48,10 +48,12 @@ devtools::install_github("hrbrmstr/streamgraph")
 ```
 
 ## Repo contents
-* [clade-distribution](./clade-distribution): `R` package code.
-* [ancestral_sequence](./ancestral_sequence): Mutation table of ancestral sequences reconstructed by treetime.
-* [exampledata](./exampledata): Example data randomly extracted from the Gisaid database and China: Guangdong sequences.
 
+* [ancestral_sequence](./ancestral_sequence): Mutation table of ancestral sequences reconstructed by treetime.
+* [clade-distribution](./clade-distribution): `R` package code.
+* [exampledata](./exampledata): Example data randomly extracted from the Gisaid database and China: Guangdong sequences.
+* [accession_number.txt](./accession_number.txt): Accession numbers of China: Guangdong sequences.
+* [participant_characteristics.png](./participant_characteristics.png): SARS-CoV-2 seroprevalence survey and participant characteristics
 
 ## Usage
 
