@@ -2,6 +2,8 @@
 This repository is used to provide a molecular epidemiology analysis of SARS-CoV-2 data from GISAID.
 
 [![Author](https://img.shields.io/badge/Author-QiuMing-blue.svg "Author")](https://github.com/tyumen001 "Author")
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
 
 ## Table of contents
 
@@ -84,5 +86,5 @@ Run `clade_distribution.ipynb` to obtain `weekly_clade_distribution.csv`, then r
 
 To get the mutation heatmap of SARS-CoV-2, run mutation_heatmap.ipynb. Ancestral sequences were reconstructed using TreeTime. Taking ba.5.2.48 as an example, run the script `sh ancestral_sequence.sh` to retrieve its ancestral node. The command `treetime ancestral` is computationally intensive and requires a significant amount of memory.
 
-## License
+## License⚖️
 This project is covered under **MIT License**.
