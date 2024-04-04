@@ -1,16 +1,17 @@
 # Molecular-epi-ncov
 This repository is used to provide a molecular epidemiology analysis of SARS-CoV-2 data from GISAID.
 
-[![Author](https://img.shields.io/badge/Author-QiuMing-blue.svg "Author")](https://github.com/tyumen001 "Author")
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 [![LICENSE](https://img.shields.io/github/license/JoeyBling/hexo-theme-yilia-plus "LICENSE")](./LICENSE "LICENSE")
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+[![Author](https://img.shields.io/badge/Author-QiuMing-blue.svg "Author")](https://github.com/tyumen001 "Author")
 
 ## Table of contents
 
 * [Installation](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#installation-%EF%B8%8F)
-* [🕸️Repo contents](#🕸️Repo-contents)
-* [☘️Usage](#☘️Usage)
-* [⚖️License](#⚖️License)
+* [🕸️Repo contents](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#repo-contents-%EF%B8%8F)
+* [☘️Usage](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#usage-%EF%B8%8F)
+* [⚖️License](https://github.com/tyumen001/molecular-epi-ncov/blob/main/README.md#license-%EF%B8%8F)
+* [Issues](https://github.com/tyumen001/molecular-epi-ncov/issues)
 
 ## Installation 🖥️
 
