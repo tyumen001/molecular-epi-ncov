@@ -7,12 +7,12 @@ This repository is used to provide a molecular epidemiology analysis of SARS-CoV
 
 ## Table of contents
 
-* [🖥️Installation](#🖥️Installation)
+* [Installation](#Installation)
 * [🕸️Repo contents](#🕸️Repo-contents)
 * [☘️Usage](#☘️Usage)
 * [⚖️License](#⚖️License)
 
-## Installation🖥️
+## Installation 🖥️
 
 ### Hardware requirements
 The molecular-epi-ncov package requires a standard server or computer with enough RAM to provide support for operations performed in memory.
